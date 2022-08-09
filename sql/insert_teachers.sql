@@ -1,0 +1,16 @@
+INSERT into teachers (first_name, last_name, school, hire_date, salary)
+VALUES ('Janet', 'Smith', 'MIT', '2011-10-30', 36200),
+        ('Lee', 'Reynolds', 'MIT', '1993-05-22', 65000),
+        ('Samuel', 'Cole', 'Cambridge University', '2005-08-01', 43500),
+        ('Samantha', 'Bush', 'Cambridge University', '2011-10-30', 36200),
+        ('Betty', 'Diaz', 'Cambridge University', '2005-08-30', 43500),
+        ('Kathleen', 'Roush', 'MIT', '2010-10-22', 38500),
+        ('James', 'Diaz', 'Harvard University', '2003-07-18', 61000),
+        ('Zack', 'Smith', 'Harvard University', '2000-12-29', 55500),
+        ('Luis', 'Gonzales', 'Stanford University', '2002-12-01', 50000),
+        ('Frank', 'Abbers', 'Stanford University', '1999-01-30', 66000),
+        ('Samuel', 'Abbers', ' Stanford University', '2006-01-30', 32000),
+        ('Jessica', 'Abbers', 'Stanford University', '2005-01-30', 33000),
+        ('Tom', 'Massi', 'Harvard University', '1999-09-09', 39500),
+        ('Esteban', 'Brown', 'MIT', '2007-01-30', 36000),
+        ('Carlos', 'Alonso', 'Stanford University', '2001-01-30', 44000);
